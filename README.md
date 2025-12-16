@@ -13,11 +13,11 @@ Welcome to my page!<br>I'm Sharlene, Graduate analyst/developer from Bengaluru, 
 <table align="center">
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=SharleneR1804&theme=dark&hide_border=false&count_private=false" width="300px" /></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=SharleneR1804&theme=dark&hide_border=false" width="300px" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharleneR1804&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharleneR1804&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400px" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=SharleneR1804&theme=dark&hide_border=false" width="300px" />
     </td>
   </tr>
 </table>
