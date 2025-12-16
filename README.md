@@ -14,9 +14,9 @@ Welcome to my page!<br>I'm Sharlene, Graduate analyst/developer from Bengaluru, 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=SharleneR1804&theme=dark&hide_border=false&count_private=false" style="flex: 1 1 300px; max-width: 45%;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=SharleneR1804&theme=dark&hide_border=false" style="flex: 1 1 300px; max-width: 45%;" />
-  <div style="flex-basis: 100%; text-align: center; margin-top: 10px;">
+  <!-- <div style="flex-basis: 100%; text-align: center; margin-top: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharleneR1804&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="width: 50%; max-width: 400px;" />
-  </div>
+  </div> -->
 </div>
 
 
