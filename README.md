@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my page!<br>I'm Sharlene, Graduate analyst/developer from Bengaluru, India, currently living in Adelaide, Australia.<br><br>🎓 Master’s in Computing & Innovation<br>
+I'm Sharlene, Graduate analyst/developer from Bengaluru, India, currently living in Adelaide, Australia.<br><br>🎓 Master’s in Computing & Innovation<br>
 
 ## 🚧 Currently Working On
 • Building full-stack applications to strengthen backend, frontend, and cloud fundamentals
