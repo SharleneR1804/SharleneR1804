@@ -2,7 +2,7 @@
 I'm Sharlene, Graduate analyst/developer from Bengaluru, India, currently living in Adelaide, Australia.<br><br>🎓 Master’s in Computing & Innovation<br>
 
 ## Currently Working On
-• Building full-stack applications to strengthen backend, frontend, and cloud fundamentals
+Building full-stack applications to strengthen backend, frontend, and cloud fundamentals
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharlenerodrigues) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharlenerodrigues01@gmail.com) 
